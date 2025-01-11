@@ -8,7 +8,7 @@ Despite this surge, disparities in telehealth adoption persisted, with geographi
 
 This project aims to examine how telehealth adoption evolved over the course of the pandemic, identify the demographic and geographic disparities in adoption, and provide insights on the future of telehealth integration.
 
-### Objective and Research Questions:
+#### Objective and Research Questions:
 
 This project seeks to explore the trajectory of telehealth adoption during and after the COVID-19 pandemic, focusing on the following questions:
 How did telehealth usage evolve before, during, and after the COVID-19 pandemic? What geographic and demographic patterns characterized telehealth adoption over time?
